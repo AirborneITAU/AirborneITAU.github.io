@@ -1,22 +1,19 @@
 {
   "gallery": [
     {
-      "image": "https://airborneitau.github.io/radiotower/art1.png",
-      "title": "Neon Lizzard",
-      "description": "2025 Neon Lizzard",
-      "audio": "https://airborneitau.github.io/radiotower/art1.mp3"
+           "frame": 1,
+      "title": "Neon Lizard",
+      "description": "2025 Neon Lizard",
     },
        {
-      "image": "https://airborneitau.github.io/radiotower/art1.png",
-      "title": "Purple Lizzard",
-      "description": "2025 Purple Lizzard",
-      "audio": "https://airborneitau.github.io/radiotower/art1.mp3"
+           "frame": 2,
+      "title": "Purple Lizard",
+      "description": "2025 Purple Lizard",
     },
        {
-      "image": "https://airborneitau.github.io/radiotower/art1.png",
-      "title": "Orange Lizzard",
-      "description": "2025 Orange Lizzard",
-      "audio": "https://airborneitau.github.io/radiotower/art1.mp3"
+           "frame": 3,
+      "title": "Orange Lizard",
+      "description": "2025 Orange Lizard",
     },
 
   ]
