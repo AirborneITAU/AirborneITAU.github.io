@@ -5,6 +5,19 @@
       "title": "Neon Lizzard",
       "description": "2025 Neon Lizzard",
       "audio": "https://airborneitau.github.io/radiotower/art1.mp3"
-    }
+    },
+       {
+      "image": "https://airborneitau.github.io/radiotower/art1.png",
+      "title": "Purple Lizzard",
+      "description": "2025 Purple Lizzard",
+      "audio": "https://airborneitau.github.io/radiotower/art1.mp3"
+    },
+       {
+      "image": "https://airborneitau.github.io/radiotower/art1.png",
+      "title": "Orange Lizzard",
+      "description": "2025 Orange Lizzard",
+      "audio": "https://airborneitau.github.io/radiotower/art1.mp3"
+    },
+
   ]
 }
