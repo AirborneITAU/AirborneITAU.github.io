@@ -1,0 +1,10 @@
+{
+  "gallery": [
+    {
+      "image": "https://raw.githubusercontent.com/your-user/your-repo/main/art/01.jpg",
+      "title": "Neon Lizzard",
+      "description": "2025 Neon Lizzard",
+      "audio": "https://raw.githubusercontent.com/your-user/your-repo/main/audio/01.mp3"
+    }
+  ]
+}
