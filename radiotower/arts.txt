@@ -1,20 +1,5 @@
-{
-  "gallery": [
-    {
-           "frame": 1,
-      "title": "Neon Lizard",
-      "description": "2025 Neon Lizard",
-    },
-       {
-           "frame": 2,
-      "title": "Purple Lizard",
-      "description": "2025 Purple Lizard",
-    },
-       {
-           "frame": 3,
-      "title": "Orange Lizard",
-      "description": "2025 Orange Lizard",
-    },
-
-  ]
-}
+[
+  { "frame": 1, "title": "Neon Lizard",   "description": "2025 Neon Lizard"  },
+  { "frame": 2, "title": "Purple Lizard", "description": "2025 Purple Lizard" },
+  { "frame": 3, "title": "Orange Lizard", "description": "2025 Orange Lizard" }
+]
