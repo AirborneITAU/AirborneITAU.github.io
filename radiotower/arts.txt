@@ -3,7 +3,7 @@
     {
       "frame": 1,
       "title": "Neon Lizard",
-      "description": "2025 Neon Lizard"
+      "description": "2025 Neon Lizard chillding on the sun on top of a rock eating bugs"
     },
     {
       "frame": 2,
